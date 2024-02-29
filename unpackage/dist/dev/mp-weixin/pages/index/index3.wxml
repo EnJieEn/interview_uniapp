@@ -1,0 +1,1 @@
+<view><tab-bar vue-id="6dfad06f-1" current-page="{{2}}" bind:__l="__l"></tab-bar><view class="_h1">常用</view></view>
